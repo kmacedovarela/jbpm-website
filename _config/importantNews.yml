@@ -14,11 +14,6 @@
   newsTitle: Take a look at jBPM 7.46.0
   newsContent: jBPM 7.46.0 is out, including bug fixes and exciting new features!
   newsUrl: http://docs.jboss.org/jbpm/release/7.46.0.Final/jbpm-docs/html_single/#jbpmreleasenotes
-- newsId: 20201112-blog
-  newsDate: 2020-11-12
-  newsTitle: Take a look at jBPM 7.46.0
-  newsContent: jBPM 7.46.0 is out, including bug fixes and exciting new features!
-  newsUrl: http://docs.jboss.org/jbpm/release/7.46.0.Final/jbpm-docs/html_single/#jbpmreleasenotes
 
 - newsId: 20201006-blog
   newsDate: 2020-10-06
